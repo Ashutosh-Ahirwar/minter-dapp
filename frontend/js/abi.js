@@ -1,6 +1,4 @@
-const abi = {
-  "response": "OK",
-  "abi": [
+const abi = {[
     {
       "inputs": [
         {
@@ -1565,4 +1563,4 @@ const abi = {
       "signature": "0x476343ee"
     }
   ]
-}
+};
