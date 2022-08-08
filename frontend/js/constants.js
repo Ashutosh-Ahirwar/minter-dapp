@@ -1,5 +1,5 @@
-const contractAddress = "0x7E99fF538cA5fba90e3C12C8268265aaA09594AB"; // Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
+const contractAddress = "0x42494bcDA84c954D5701D772f18f112929A3E2fB"; // Replace with your own contract address
+const chain = 'polygon'; // rinkeby, polygon, or ethereum
 const abi = [
     {
       "inputs": [
